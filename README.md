@@ -11,7 +11,7 @@ This project focuses on developing an automated resume screening system. Given a
 The dataset was sourced from Kaggle, containing over 2400 resumes in string and PDF formats, organized by industry. The industries include accounting, engineering, chef, finance, teacher, and many more. The data was unlabeled.
 
 ### Task
-Our team of data scientists was tasked with analyzing these thousands of resumes and reporting approximately 15% of them for the next round of review.
+Our team was tasked with analyzing these thousands of resumes and reporting approximately 15% of them for the next round of review.
 
 ### Feature Extraction
 Extracted features from the resumes including skills, work experience, industry keywords, work position, sentiment analysis, and college.
